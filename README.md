@@ -4,7 +4,7 @@ Sqlite with SHA1
 https://stackoverflow.com/questions/3179021/sha1-hashing-in-sqlite-how
 
 
-```SQL
+```bash
 sudo apt build-dep sqlite3 # fetches dependencies to compile sqlite3
 
 mkdir sqlite-compilation
